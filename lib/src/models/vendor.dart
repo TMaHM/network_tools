@@ -1,5 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
-part 'vendor.g.dart';
+part of 'vendor.g.dart';
 
 /// Gives vendor details matching as prefix of mac address
 @JsonSerializable()
